@@ -622,3 +622,15 @@ pre tt:after {
     font-size: 100%;
   }
 }
+
+h1 {
+  color: #FF6F00;
+}
+
+a {
+  color: #7BB200;
+}
+
+p {
+  color: #A000CC;
+}
